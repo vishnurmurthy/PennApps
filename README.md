@@ -1,1 +1,1 @@
-# PennApps
+# Notes for what I am programming/learning from workshops at PennApps
